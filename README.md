@@ -19,7 +19,7 @@ You will create a file for each problem.
 2- In this task, you will:
 
 - create a server  
-- Write a program that runs on port 3000 and responds with  '<h1>Hello Node!!!!</h1>\n' when someone reaches http://localhost:3000
+- Write a program that runs on port 3000 and responds with  `'<h1>Hello Node!!!!</h1>\n'` when someone reaches http://localhost:3000
   
 3-  In this task, you will:
 
@@ -47,4 +47,4 @@ npm install nodemailer (https://www.w3schools.com/nodejs/nodejs_email.asp)
 
  
 
-## PS: Don't forget to delete your personal information before uploading it to GitHub :)  
+<strong> PS: Don't forget to delete your personal information before uploading it to GitHub :)  <strong>
